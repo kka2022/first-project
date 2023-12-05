@@ -2,3 +2,6 @@ Hello World >>
 World is vast
 Go and say hello to everyone on this planet
 Good luck !!
+
+Now, go shake hands with everyone.
+All the best !!
